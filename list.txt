@@ -1,1 +1,1 @@
-Geography|||https://raw.githubusercontent.com/ducclucc5/Image-guesser/main/geography.txt
+Geography|||https://raw.githubusercontent.com/ducclucc5/Image-guesser/main/geography.txt|||geography
